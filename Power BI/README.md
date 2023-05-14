@@ -3,7 +3,7 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jiaqiyu1?tab=repositories)
 
 
-## **Australia NSW Property Analysis (June 2017)** 
+## **Australia NSW Property Analysis (Data:June 2017)** 
 ### **Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see interactive dashboard**
 
 
