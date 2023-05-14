@@ -4,6 +4,9 @@
 
 
 ## **Australia NSW Property Analysis (June 2017)** 
+### **Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see interactive dashboard**
+
+
 This Power BI project focuses on three key dimensions that impact property values - train station proximity, public school catchment areas, and location. Using property data from June 2017, this dashboard provides insights into median property values across NSW based on these dimensions.
 
 The train station dimension allows you to view median property values based on proximity to train stations, making it easy for you to identify areas with the most valuable properties. The public school dimension allows you to filter data based on the catchment area of a school, giving you an insight into how this factor affects property values. Finally, the location dimension helps you to explore median property values in specific regions, making it easy for you to identify hotspots and potential areas for investment.
@@ -46,7 +49,7 @@ Download the raw datasets from [this link](https://drive.google.com/drive/u/0/fo
 
 
 ### Power BI Dashboard showcase 
-plesse [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see the interactive dashboard 
+Plesse [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see the interactive dashboard 
 
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/67c4dce6-6753-4f9c-82a2-248d42c95db9)
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/fc6f4bff-bde8-4d01-8f33-57364e7d2c4d)
