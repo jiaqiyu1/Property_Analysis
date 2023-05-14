@@ -31,11 +31,14 @@ This project will use two types of data:
 
 ## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Solutions
 ### :point_right: SQL: 
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
    * Data exploration: SQL queries based on specific business requirements
-### :point_right: Power BI: 
+### :point_right: Power BI
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
    * SSIS ELT package 
    * Data warehouse design diagram (star schema) 
    * Data warehouse design script(schema+queries) 
    * Dashboard
 ###  :point_right: SSRS/Report Builder 
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
    * SQL queries aimed for paginated report which is based on sepecific business needs
