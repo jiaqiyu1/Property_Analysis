@@ -1,12 +1,14 @@
-## Property Analysis
+# Property Analysis 
 
-### Introduction 
+<img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/46a119b4-0eec-4ee6-b6ca-87d86df32a06" width="256" height="256">
+
+## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Introduction 
 The Property Analysis project aims to explore various data management and reporting tools to gain insights into real estate trends.
 This project will involve working with both internal data stored in a data warehouse and open data provided by the Australian government. 
 It will help to develop skills in data analysis and visualization, 
 as well as provide a deeper understanding of the real estate market and the factors that drive it, further informing decision-making processes.
 
-### Objectives
+## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Objectives
 * Gain hands-on experience in importing data into a database, creating tables, and building relationships between tables
 * Write SQL queries to retrieve and manipulate data to generate meaningful insights
 * Use SSIS to build a data warehouse and implement Kimball methodologies to ensure data integrity
@@ -14,7 +16,7 @@ as well as provide a deeper understanding of the real estate market and the fact
 Analyze open data provided by the Australian government to identify patterns and trends in the real estate market
 Develop the ability to analyze business requirements and create Power BI and paginated reports that meet those requirements.
 
-### Skills
+## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Skills
 This project requires proficiency in the following tools and methodologies:
 * SQL
 * SSIS
@@ -22,18 +24,18 @@ This project requires proficiency in the following tools and methodologies:
 * Kimball methodologies
 * Power BI/ DAX 
 
-### Data
+## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Data
 This project will use two types of data:
 * Data stored in the data warehouse
 * Open data provided by the Australian government
 
-### Solutions
-SQL: 
+## <img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/34706b88-0cfa-4925-b7e4-7a35f5f227b4" width="32" height="32"> Solutions
+### :point_right: SQL: 
    * Data exploration: SQL queries based on specific business requirements
-Power BI: 
+### :point_right: Power BI: 
    * SSIS ELT package 
    * Data warehouse design diagram (star schema) 
    * Data warehouse design script(schema+queries) 
    * Dashboard
-SSRS/Report Builder 
+###  :point_right: SSRS/Report Builder 
    * SQL queries aimed for paginated report which is based on sepecific business needs
