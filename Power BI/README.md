@@ -45,5 +45,11 @@ Download the raw datasets from [this link](https://drive.google.com/drive/u/0/fo
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/3e26e2c6-a8ee-47d7-a84e-a86a237d2df6)
 
 
+### Power BI Dashboard showcase 
+plesse [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see the interactive dashboard 
+
+![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/67c4dce6-6753-4f9c-82a2-248d42c95db9)
+![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/fc6f4bff-bde8-4d01-8f33-57364e7d2c4d)
+![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/2364ef53-e1ce-4883-bd66-de65893f717b)
 
 
