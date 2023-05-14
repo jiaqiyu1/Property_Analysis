@@ -39,6 +39,9 @@ This project will use two types of data:
 ### :point_right: SQL: 
 please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
    * Data exploration: SQL queries based on specific business requirements
+### :point_right: SSIS:
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSIS)
+   * ETL: data extraction, transformation and loading into SQL Server Management Studio for reporting
 ### :point_right: Power BI
 please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) 
    * SSIS ELT package 
