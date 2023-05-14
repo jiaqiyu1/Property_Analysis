@@ -44,7 +44,6 @@ please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSIS
    * ETL: data extraction, transformation and loading into SQL Server Management Studio for reporting
 ### :point_right: Power BI
 please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) 
-   * SSIS ELT package 
    * Data warehouse design diagram (star schema) 
    * Data warehouse design script(schema+queries) 
    * Dashboard
