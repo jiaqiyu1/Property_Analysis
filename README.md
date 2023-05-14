@@ -6,7 +6,6 @@ This project will involve working with both internal data stored in a data wareh
 It will help to develop skills in data analysis and visualization, 
 as well as provide a deeper understanding of the real estate market and the factors that drive it, further informing decision-making processes.
 
-
 ### Objectives
 * Gain hands-on experience in importing data into a database, creating tables, and building relationships between tables
 * Write SQL queries to retrieve and manipulate data to generate meaningful insights
@@ -30,11 +29,11 @@ This project will use two types of data:
 
 ### Solutions
 SQL: 
-   * SQL queries based on specific business requirements
-   * Paginated report based on sepecific business needs
-   * Data warehouse design script(schema+queries) 
+   * Data exploration: SQL queries based on specific business requirements
 Power BI: 
+   * SSIS ELT package 
    * Data warehouse design diagram (star schema) 
-   * 
-* 
-* 
+   * Data warehouse design script(schema+queries) 
+   * Dashboard
+SSRS/Report Builder 
+   * SQL queries aimed for paginated report which is based on sepecific business needs
