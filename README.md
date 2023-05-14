@@ -29,11 +29,12 @@ This project will use two types of data:
 * Open data provided by the Australian government
 
 ### Solutions
-* SQL: 
-*   SQL queries based on specific business requirements
-*   Paginated report based on sepecific business needs
-* Data warehouse design script(schema+queries) 
-* Data warehouse design diagram (star schema) 
-* 
+SQL: 
+   * SQL queries based on specific business requirements
+   * Paginated report based on sepecific business needs
+   * Data warehouse design script(schema+queries) 
+Power BI: 
+   * Data warehouse design diagram (star schema) 
+   * 
 * 
 * 
