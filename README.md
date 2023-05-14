@@ -39,6 +39,7 @@ please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Powe
    * Data warehouse design diagram (star schema) 
    * Data warehouse design script(schema+queries) 
    * Dashboard
-###  :point_right: SSRS/Report Builder 
-please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
+###  :point_right: SSRS/Report Builder/Paginated Report
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSRS_ReportBuilder_PaginatedReport) 
    * SQL queries aimed for paginated report which is based on sepecific business needs
+   * Paginated report
