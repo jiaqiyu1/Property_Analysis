@@ -23,7 +23,8 @@ With the help of Property Analysis Dashboard, you can make informed decisions ab
 * 👉 Data sourcing: 
 **Excel, WebAPI**
 * 👉 Data transformation/ETL: 
-**Excel, Power Query, SSIS**
+**Excel, Power Query, SSIS** (download cleansed datasets from [here](https://drive.google.com/drive/folders/1FGOXUijNNTYrgDJ1DtPZS38wMmREb24W?usp=share_link)
+)
 * 👉 Build up data warehouse: 
 **Kimball Methodology(Star schema dimensional modelling), SQL**
 * 👉 Power BI dashboard: 
