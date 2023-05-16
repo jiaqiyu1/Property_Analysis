@@ -4,7 +4,7 @@
 
 
 ## **Australia NSW Property Analysis (Data:June 2017)** 
-### **Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see interactive dashboard**
+### 📌 **Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see interactive dashboard**
 
 
 This Power BI project focuses on three key dimensions that impact property values - train station proximity, public school catchment areas, and location. Using property data from June 2017, this dashboard provides insights into median property values across NSW based on these dimensions.
@@ -14,7 +14,7 @@ The train station dimension allows you to view median property values based on p
 With the help of Property Analysis Dashboard, you can make informed decisions about buying, selling, or investing in property in NSW, Australia. Stay ahead of the game and gain an edge in the property market with this powerful tool.
 
 
-### Objectives 
+### 📌 Objectives 
 * Transform data from multiple data sources, ensure the accuracy and integrity of relevant data sets.
 * Design, build and test a data warehouse solution.
 * Access, analyse and interpret data to deliver easy-to-consume and actionable insights for the business with a dashboard report.
@@ -30,14 +30,13 @@ With the help of Property Analysis Dashboard, you can make informed decisions ab
 * 👉 Power BI dashboard: 
 **Power BI, DAX**
 
-![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/6d04e3ab-eb97-4f2a-a2f6-32fdb165f177)
+<img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/6d04e3ab-eb97-4f2a-a2f6-32fdb165f177" width="472" height="461">
 
-### Datasets
-Download the raw datasets from [this link](https://drive.google.com/drive/u/0/folders/1IK9xtgUgYqVCaUeU3dyfTyIJFQsNTzOX)
-**Note:** ('Australia' datasets were used for this case) 
+### 📌 Data Warehouse Implementation Process: From Extraction to Reporting
+<img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/6016f5a3-dd36-4736-a249-a73a9690ac02" width="472" height="461">
 
 
-### Star Schema Dimensional Modelling
+### 📌 Star Schema Dimensional Modelling
 1. Fact - Property Median Value
 2. Dimensions 
 * Dimension Public School
@@ -46,11 +45,12 @@ Download the raw datasets from [this link](https://drive.google.com/drive/u/0/fo
 
 
 **Star Schema Diagram for Data Warehouse**
-![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/3e26e2c6-a8ee-47d7-a84e-a86a237d2df6)
+![imgae](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/3e26e2c6-a8ee-47d7-a84e-a86a237d2df6)
 
 
-### Power BI Dashboard showcase 
-Plesse [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see the interactive dashboard 
+### 📌 Power BI Dashboard showcase 
+**👉Plesse [click here](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D) to see the interactive dashboard👈**
+
 
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/67c4dce6-6753-4f9c-82a2-248d42c95db9)
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/fc6f4bff-bde8-4d01-8f33-57364e7d2c4d)
