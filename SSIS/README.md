@@ -16,7 +16,8 @@
 
 
 
-### ETL Pipeline (Not for this case) 
-<img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/046e54c0-bd6b-4503-85da-9a0b673c234e" width="512" height="512">
+### Data Warehouse Implementation Process: 
+From Extraction to Reporting 
 
-[Source](https://www.linkedin.com/feed/update/urn:li:activity:7059957356339576832/)
+<img src="https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/82ff7033-6169-4011-9a76-9812c1f4d096" width="512" height="416"
+
